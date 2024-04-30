@@ -1,12 +1,10 @@
 ### Hi there 👋, Joshua Poe 
 #### Cyber Security Analyst
+📫 How to reach me: Cell: (832-494-6443) or email: jpoe296@gmail.com
 
 I'm Joshua Poe from Houston, Tx. I am an up and comming Cyber Security Analyst with strong fundamentals on cyber security for web and mobile applications. My background is in finance or similar high risk systems, who is able to conduct security related testing (vulnerability, penetration etc testing) himself. Some of the things I have experience in are Threat modeling, Monitor effectivity of cyber security activities, Independent completion of security related activities,  Design and implement cryptography, Document detection alerts, and many more. 
 
 Skills: Splunk/ Linux/ Defense team member/ Document detection alerts / Data Collection tools/ Cryptography/
-
-- 📫 How to reach me: Cell : (832-494-6443) or email: jpoe296@gmail.com 
-
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -23,7 +21,6 @@ Skills: Splunk/ Linux/ Defense team member/ Document detection alerts / Data Col
   - [Defensive Security Project Presentation](https://docs.google.com/presentation/d/1zLndIzRfHYzCuGQKfumW4HMOyzgTUjk4usmI5C6K_CI/edit#slide=id.g630a814dc5_0_53)
   - [Risk and Threat Assessment Project Presentation](https://docs.google.com/presentation/d/1SMNUkA-6yB_r9KTDyBddXPmTExxvefOC0YfES1--hGA/edit#slide=id.p)
 
-
 <h2>📺 Certifications</h2>
 
 - [Skillsoft CompTIA Security+ Security Concepts in an Enterprise Environment](https://skillsoft.digitalbadges.skillsoft.com/1bf3302f-7642-4695-978b-e09ddfadabb7#gs.8pg7gy)
@@ -36,27 +33,15 @@ Skills: Splunk/ Linux/ Defense team member/ Document detection alerts / Data Col
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+ [<img align="left" alt="JoshPoe1 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+ 
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/joshualpoe
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
