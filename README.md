@@ -1,8 +1,12 @@
-<h1>Hi there! </h1>h1>
+### Hi there 👋, Joshua Poe 
+#### Cyber Security Analyst
 
-I'm Joshua Poe from Houston, Tx. I am an up and comming Cyber Security Analyst with strong fundamentals on cyber security for web and mobile applications. My background is in finance or similar high risk systems, who is able to conduct security related testing (vulnerability, penetration etc testing) himself. Some of the things I have experience in are Threat modeling, Monitor effectivity of cyber security activities,Independent completion of security related activities,  Design and implement cryptography, Document detection alerts, and many more. 
+I'm Joshua Poe from Houston, Tx. I am an up and comming Cyber Security Analyst with strong fundamentals on cyber security for web and mobile applications. My background is in finance or similar high risk systems, who is able to conduct security related testing (vulnerability, penetration etc testing) himself. Some of the things I have experience in are Threat modeling, Monitor effectivity of cyber security activities, Independent completion of security related activities,  Design and implement cryptography, Document detection alerts, and many more. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshuapoe)](https://github.com/anuraghazra/github-readme-stats)
+Skills: Splunk/ Linux/ Defense team member/ Document detection alerts / Data Collection tools/ Cryptography/
+
+- 📫 How to reach me: Cell : (832-494-6443) or email: jpoe296@gmail.com 
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
