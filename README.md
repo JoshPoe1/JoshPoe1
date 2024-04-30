@@ -2,9 +2,9 @@
 #### Cyber Security Analyst
 📫 How to reach me: Cell: (832-494-6443) or email: jpoe296@gmail.com
 
-I'm Joshua Poe from Houston, Tx. I am an up and comming Cyber Security Analyst with strong fundamentals on cyber security for web and mobile applications. My background is in finance or similar high risk systems, who is able to conduct security related testing (vulnerability, penetration etc testing) himself. Some of the things I have experience in are Threat modeling, Monitor effectivity of cyber security activities, Independent completion of security related activities,  Design and implement cryptography, Document detection alerts, and many more. 
+I'm Joshua Poe from Houston, Tx. I am a Cyber Security Analyst with strong fundamentals on cyber security for elimanating risk, documenting detection alerts, and performing defense team member duties. I am self-motivated and proactive individual with computer science skills. Seeking a cyber security analyst role where I can use my  expertise in Networking, Cloud Security, Crytography, Web Application, Splunking, and Risk Assessment to assist a cyber security team.
 
-Skills: Splunk / Linux / Defense team member/ Document detection alerts / Data Collection tools / Cryptography / Vulnerability scanning / Compliance auditing writing / Governance policy writing / 
+Skills: Splunk / Linux / Defense team member/ Document detection alerts / Data Collection tools / Cryptography / Vulnerability scanning / Compliance auditing writing / Governance policy writing 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Rice University Linux System Administration](https://docs.google.com/document/d/1A5hjVEdRQOWkVlwlwIj-kmGhouJhYDPUIiwnbFpk1QU/edit#heading=h.q9jfs4nt6f59)
