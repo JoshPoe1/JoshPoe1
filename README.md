@@ -1,6 +1,6 @@
 ### Hi there 👋, Joshua Poe 
 #### Cyber Security Analyst
-📫 How to reach me: Cell: (713-665-9099) or email: jpoe296@gmail.com no
+📫 How to reach me: Cell: (713-665-9099) or email: jpoe296@gmail.com 
 
 I'm Joshua Poe from Houston, Tx. I am a Cyber Security Analyst with strong fundamentals on cyber security for elimanating risk, documenting detection alerts, and performing defense team member duties. I am self-motivated and proactive individual with computer science skills. Seeking a cyber security analyst role where I can use my  expertise in Networking, Cloud Security, Crytography, Web Application, Splunking, and Risk Assessment to assist a cyber security team.
 
